@@ -1,0 +1,12 @@
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.WxPay\web.config
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.WxPay\Description.txt
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.WxPay\Views\WxPay\Configure.cshtml
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.WxPay\Views\WxPay\ReturnInfo.cshtml
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.WxPay\Views\WxPay\PaymentInfo.cshtml
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.WxPay\logo.png
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.WxPay\Nop.Plugin.Payments.WxPay.dll.config
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.WxPay\Nop.Plugin.Payments.WxPay.dll
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.WxPay\Nop.Plugin.Payments.WxPay.pdb
+F:\1-咫尺\远程\shop\Plugins\Nop.Plugin.Payments.WxPay\obj\Debug\Nop.Plugin.Payments.WxPay.csprojResolveAssemblyReference.cache
+F:\1-咫尺\远程\shop\Plugins\Nop.Plugin.Payments.WxPay\obj\Debug\Nop.Plugin.Payments.WxPay.dll
+F:\1-咫尺\远程\shop\Plugins\Nop.Plugin.Payments.WxPay\obj\Debug\Nop.Plugin.Payments.WxPay.pdb

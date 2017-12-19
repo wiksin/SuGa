@@ -1,0 +1,11 @@
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.AliPay\Views\PaymentAliPay\Configure.cshtml
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.AliPay\Views\PaymentAliPay\PaymentInfo.cshtml
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.AliPay\web.config
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.AliPay\Description.txt
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.AliPay\logo.png
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.AliPay\Nop.Plugin.Payments.AliPay.dll.config
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.AliPay\Nop.Plugin.Payments.AliPay.dll
+F:\1-咫尺\远程\shop\Presentation\Nop.Web\Plugins\Payments.AliPay\Nop.Plugin.Payments.AliPay.pdb
+F:\1-咫尺\远程\shop\Plugins\Nop.Plugin.Payments.AliPay\obj\Debug\Nop.Plugin.Payments.AliPay.csprojResolveAssemblyReference.cache
+F:\1-咫尺\远程\shop\Plugins\Nop.Plugin.Payments.AliPay\obj\Debug\Nop.Plugin.Payments.AliPay.dll
+F:\1-咫尺\远程\shop\Plugins\Nop.Plugin.Payments.AliPay\obj\Debug\Nop.Plugin.Payments.AliPay.pdb

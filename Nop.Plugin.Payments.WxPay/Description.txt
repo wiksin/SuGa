@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: WxPay
+SystemName: Payments.WxPay
+Version: 1.0
+SupportedVersions: 3.80
+Author:zhichi.com.cn
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.WxPay.dll
+Description:支持微信支付

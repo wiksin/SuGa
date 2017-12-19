@@ -1,0 +1,12 @@
+﻿@{
+    Layout = "";
+}
+@model ConfigurationModel
+@using Nop.Plugin.Payments.WxPay.Models
+@using Nop.Web.Framework;
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+}
+<label>微信支付配置请到供应商列表中配置</label>
