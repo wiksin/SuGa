@@ -1,0 +1,17 @@
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\Description.txt
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\logo.jpg
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\Views\MiscWebApiServices\Configure.cshtml
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\Web.config
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\Web.Debug.config
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\Web.Release.config
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\Nop.Plugin.Misc.WebApiServices.dll.config
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\Nop.Plugin.Misc.WebApiServices.dll
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\Nop.Plugin.Misc.WebApiServices.pdb
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\Autofac.Integration.WebApi.dll
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\SDammann.WebApi.Versioning.dll
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\Autofac.Integration.WebApi.xml
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\SDammann.WebApi.Versioning.pdb
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\bin\SDammann.WebApi.Versioning.xml
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\obj\Release\Nop.Plugin.Misc.WebApiServices.csprojResolveAssemblyReference.cache
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\obj\Release\Nop.Plugin.Misc.WebApiServices.dll
+G:\Copy\MyWork\2014\Smartware\Martware\Martware\Api\Martware.Api\obj\Release\Nop.Plugin.Misc.WebApiServices.pdb

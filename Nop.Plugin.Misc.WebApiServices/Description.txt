@@ -1,0 +1,9 @@
+﻿Group: Misc
+FriendlyName: Web Api Services
+SystemName: Misc.WebApiServices
+Version: 1.00
+SupportedVersions: 3.80
+Author: houtingguang
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.WebApiServices.dll
+Description: WebApi
