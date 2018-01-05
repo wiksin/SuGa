@@ -1363,7 +1363,7 @@
     <Value>州/省</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.StateProvince.Hint">
-    <Value>Select 州/省.</Value>
+    <Value>选择 州/省.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.StateProvince.Required">
     <Value>州/省 必填</Value>
@@ -2266,7 +2266,7 @@
     <Value>为此制造商的产品设置页面大小，例如 '4'每页产品.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSize.Positive">
-    <Value>页面大小 should have a positive value.</Value>
+    <Value>页面大小 应该有一个积分。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSizeOptions">
     <Value>页面大小 options (comma separated)</Value>
@@ -13101,28 +13101,28 @@
     <Value>姓名 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.ScheduleTasks.RestartApplication">
-    <Value></Value>
+    <Value>计划任务重新启动应用程序</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.ScheduleTasks.RunNow">
-    <Value>Run now</Value>
+    <Value>启动</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.ScheduleTasks.RunNow.Done">
-    <Value>Schedule task was run</Value>
+    <Value>计划任务已运行</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.ScheduleTasks.RunNow.Progress">
-    <Value>Running the schedule task</Value>
+    <Value>运行计划任务</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.ScheduleTasks.Seconds">
-    <Value>Seconds (run period)</Value>
+    <Value>秒（运行期）</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.ScheduleTasks.Seconds.Positive">
-    <Value>Seconds should be positive</Value>
+    <Value>秒应该是积极的</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.ScheduleTasks.StopOnError">
-    <Value>Stop on error</Value>
+    <Value>停止错误</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SeNames">
-    <Value>Search engine friendly page names</Value>
+    <Value>搜索引擎友好的网页名称</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SeNames.DeleteSelected">
     <Value>删除所选</Value>
@@ -13131,10 +13131,10 @@
     <Value>编辑page</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SeNames.EntityId">
-    <Value>Entity ID</Value>
+    <Value>实体ID</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SeNames.EntityName">
-    <Value>Entity名称</Value>
+    <Value>实体名称</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SeNames.Id">
     <Value>ID</Value>
@@ -13152,10 +13152,10 @@
     <Value>姓名</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SeNames.Name.Hint">
-    <Value>A名称 to find.</Value>
+    <Value>按名称找.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo">
-    <Value>System信息rmation</Value>
+    <Value>系统信息</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.ASPNETInfo">
     <Value>ASP.NET信息</Value>
@@ -13164,70 +13164,70 @@
     <Value>ASP.NET信息.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.CurrentUserTime">
-    <Value>Current user time</Value>
+    <Value>当前用户时间</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.CurrentUserTime.Hint">
-    <Value>Current user time (based on specified datetime and timezone settings).</Value>
+    <Value>当前用户时间（基于指定的日期时间和时区设置）。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.Headers">
-    <Value>Headers</Value>
+    <Value>头</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.Headers.Hint">
-    <Value>A列表 of headers.</Value>
+    <Value>列表标题。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.HTTPHOST">
     <Value>HTTP_HOST</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.HTTPHOST.Hint">
-    <Value>HTTP_HOST is used when you have run a multi-store solution to determine the current store.</Value>
+    <Value>HTTP_HOS当您运行多商店解决方案来确定当前商店时使用T。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.IsFullTrust">
-    <Value>Is full trust level</Value>
+    <Value>是完全的信任水平</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.IsFullTrust.Hint">
-    <Value>Is full trust level.</Value>
+    <Value>是完全的信任水平.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.LoadedAssemblies">
-    <Value>Loaded assemblies</Value>
+    <Value>加载的程序集</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.LoadedAssemblies.Hint">
-    <Value>A列表 of loaded assemblies.</Value>
+    <Value>加载组件的列表.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.NopVersion">
-    <Value>nopCommerce version</Value>
+    <Value>程序版本</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.NopVersion.Hint">
-    <Value>nopCommerce version.</Value>
+    <Value>程序版本.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.OperatingSystem">
-    <Value>Operating system</Value>
+    <Value>操作系统</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.OperatingSystem.Hint">
-    <Value>Operating system.</Value>
+    <Value>操作系统.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.ServerLocalTime">
-    <Value>Server local time</Value>
+    <Value>服务器本地时间</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.ServerLocalTime.Hint">
-    <Value>Server local time.</Value>
+    <Value>服务器本地时间.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.ServerTimeZone">
-    <Value>Server time zone</Value>
+    <Value>服务器时区</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.ServerTimeZone.Hint">
-    <Value>Server time zone.</Value>
+    <Value>服务器时区.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.UTCTime">
-    <Value>Coordinated Universal Time (UTC)</Value>
+    <Value>协调世界时（UTC）</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SystemInfo.UTCTime.Hint">
-    <Value>Coordinated Universal Time (UTC).</Value>
+    <Value>协调世界时（UTC）.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates">
-    <Value>Templates</Value>
+    <Value>模板</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Category">
-    <Value>类别 templates</Value>
+    <Value>类别模板</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Category.DisplayOrder">
     <Value>显示顺序</Value>
@@ -13239,13 +13239,13 @@
     <Value>姓名 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Category.ViewPath">
-    <Value>View path</Value>
+    <Value>查看路径</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Category.ViewPath.Required">
-    <Value>View path 必填</Value>
+    <Value>查看路径 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Manufacturer">
-    <Value>Manufacturer templates</Value>
+    <Value>制造商模板</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Manufacturer.DisplayOrder">
     <Value>显示顺序</Value>
@@ -13257,19 +13257,19 @@
     <Value>姓名 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Manufacturer.ViewPath">
-    <Value>View path</Value>
+    <Value>查看路径</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Manufacturer.ViewPath.Required">
-    <Value>View path 必填</Value>
+    <Value>查看路径 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Product">
-    <Value>产品 templates</Value>
+    <Value>产品模板</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Product.DisplayOrder">
     <Value>显示顺序</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Product.IgnoredProductTypes">
-    <Value>Ignored product类型 IDs (advanced)</Value>
+    <Value>忽略的产品类型ID（高级）</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Product.Name">
     <Value>姓名</Value>
@@ -13278,13 +13278,13 @@
     <Value>姓名 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Product.ViewPath">
-    <Value>View path</Value>
+    <Value>查看路径</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Product.ViewPath.Required">
-    <Value>View path 必填</Value>
+    <Value>查看路径 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Topic">
-    <Value>到pic templates</Value>
+    <Value>图片模板</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Topic.DisplayOrder">
     <Value>显示顺序</Value>
@@ -13296,118 +13296,118 @@
     <Value>姓名 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Topic.ViewPath">
-    <Value>View path</Value>
+    <Value>查看路径</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Templates.Topic.ViewPath.Required">
-    <Value>View path 必填</Value>
+    <Value>查看路径 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings">
-    <Value>Warnings</Value>
+    <Value>警告</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.DefaultDimension.NotSet">
-    <Value>默认dimension is not set</Value>
+    <Value>默认维度未设置</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.DefaultDimension.Ratio1">
-    <Value>默认dimension. The ratio should be set to 1.</Value>
+    <Value>默认尺寸。 比例应该设置为1.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.DefaultDimension.Set">
-    <Value>默认dimension is set</Value>
+    <Value>默认维度设置</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.DefaultWeight.NotSet">
-    <Value>默认weight is not set</Value>
+    <Value>默认权重未设置</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.DefaultWeight.Ratio1">
-    <Value>默认weight. The ratio should be set to 1.</Value>
+    <Value>默认重量。 比例应该设置为1.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.DefaultWeight.Set">
-    <Value>默认weight is set</Value>
+    <Value>默认权重设置</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.DirectoryPermission.OK">
-    <Value>全部 directory permissions are OK</Value>
+    <Value>全部目录权限都可以</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.DirectoryPermission.Wrong">
-    <Value> '{0}'账户 is not granted with Modify permission on folder '{1}'. Please configure these permissions.</Value>
+    <Value>“{0}”账户不具有“{1}”文件夹的修改权限。 请配置这些权限。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.Errors">
-    <Value> store has some error(s). Please find more信息rmation on the Warnings page.</Value>
+    <Value>商店有一些错误（S）。 请在“警告”页面上找到更多信息。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.ExchangeCurrency.NotSet">
-    <Value>Primary exchange rate currency is not set</Value>
+    <Value>主要汇率货币未设定</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.ExchangeCurrency.Rate1">
-    <Value>Primary exchange rate currency. The rate should be set to 1.</Value>
+    <Value>主要汇率货币。 费率应该设置为1.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.ExchangeCurrency.Set">
-    <Value>Primary exchange rate currency is set</Value>
+    <Value>主要汇率货币设置</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.FilePermission.OK">
-    <Value>全部 file permissions are OK</Value>
+    <Value>全部文件的权限都可以</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.FilePermission.Wrong">
-    <Value> '{0}'账户 is not granted with Modify permission on file '{1}'. Please configure these permissions.</Value>
+    <Value>“{0}”账户未获得文件“{1}”的修改权限。 请配置这些权限。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.PaymentMethods.NoActive">
-    <Value>You don't have active payment方法</Value>
+    <Value>您没有有效的付款方式</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.PaymentMethods.OK">
-    <Value>支付方式s are OK</Value>
+    <Value>支付方式是可以的</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.Performance.IgnoreStoreLimitations">
-    <Value>Performance. You use仅 one store. Recommended to ignore store limitations (catalog settings)</Value>
+    <Value>性能。 您只使用一个商店。 建议忽略商店限制（目录设置）</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.Performance.IgnoreStoreLimitations.Notification">
-    <Value>In order to use this functionality you have to disable the following setting: Catalog settings > Ignore "limit per store" rules.</Value>
+    <Value>为了使用此功能，您必须禁用以下设置：“目录设置”>“忽略每个商店的限制”规则。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.Performance.IgnoreAcl">
-    <Value>Performance. Recommended to ignore ACL rules if you don't use them (catalog settings)</Value>
+    <Value>性能。 建议在不使用ACL规则时忽略ACL规则（目录设置）</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.Performance.IgnoreAcl.Notification">
-    <Value>In order to use this functionality you have to disable the following setting: Catalog settings > Ignore ACL rules.</Value>
+    <Value>为了使用此功能，您必须禁用以下设置：目录设置>忽略ACL规则.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.PluginNotLoaded">
-    <Value>'{0}' plugin is not compatible or cannot be loaded.</Value>
+    <Value>“{0}”插件不兼容或无法加载.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.PrimaryCurrency.NotSet">
-    <Value>Primary store currency is not set</Value>
+    <Value>主商店货币未设置</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.PrimaryCurrency.Set">
-    <Value>Primary store currency is set</Value>
+    <Value>主商店货币已设置</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.URL.Match">
-    <Value>Specified store URL matches this store URL</Value>
+    <Value>指定的商店网址与此商店网址相符</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.URL.NoMatch">
-    <Value>Specified store URL ({0}) doesn't match this store URL ({1})</Value>
+    <Value>指定的商店网址（{0}）与此商店网址（{1}）不匹配</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.URL.Reserved">
-    <Value>输入 page名称 already exists, so it will be replaced by '{0}'</Value>
+    <Value>输入页面名称已经存在，所以会被替换 '{0}'</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors">
-    <Value>Vendors</Value>
+    <Value>供应商</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Added">
-    <Value> new vendor 添加成功.</Value>
+    <Value> 新的供应商 添加成功.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.AddNew">
-    <Value>添加new vendor</Value>
+    <Value>添加新的供应商</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Address">
-    <Value>地址 (optional)</Value>
+    <Value>地址 （可选的）</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.BackToList">
-    <Value>返回vendor列表</Value>
+    <Value>返回供运商r列表</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Deleted">
-    <Value> vendor删除成功</Value>
+    <Value> 供运商删除成功</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.EditVendorDetails">
-    <Value>编辑vendor详情</Value>
+    <Value>编辑供运商详情</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Active">
     <Value>激活</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Active.Hint">
-    <Value>A value indicating whether the vendor 激活.</Value>
+    <Value>表示供应商是否激活的值.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AdminComment">
     <Value>管理员公用</Value>
@@ -13416,31 +13416,33 @@
     <Value>管理员公用供内部使用。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AllowCustomersToSelectPageSize">
-    <Value>Allow顾客s to select 页面大小</Value>
+    <Value>允许顾客选择页面大小</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AllowCustomersToSelectPageSize.Hint">
-    <Value>Whether顾客s are allowed to select the 页面大小 from a predefined列表 of options.</Value>
+    <Value>是否允许顾客从预定义的选项列表中选择页面大小。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails">
     <Value>顾客</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails.Hint">
-    <Value>A列表 of顾客 accounts which could be used to manage products and orders这个vendor (have access to the vendor portal). You can associate顾客s to a vendor on a顾客 details page. If you don't want the vendor to have access to the vendor portal, then do not associate any顾客账户 with it.</Value>
+    <Value>可以用来管理产品和订单的顾客账户列表（可以访问供应商门户）。 
+    您可以将顾客与顾客详细信息页面上的供应商相关联。
+    如果您不希望供应商访问供应商门户，则不要将任何顾客账户与其关联.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails.None">
-    <Value>No顾客账户 associated to this vendor.</Value>
+    <Value>没有顾客账户与此供应商关联.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Description">
     <Value>描述</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.描述。Hint">
-    <Value> description of the vendor.</Value>
+    <Value>供应商的描述.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.DisplayOrder">
     <Value>显示顺序</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.DisplayOrder.Hint">
-    <Value>设置 vendor's 显示顺序. 1代表列表的顶部.</Value>
+    <Value>设置供运商显示顺序. 1代表列表的顶部.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Email">
     <Value>邮箱</Value>
@@ -13455,25 +13457,25 @@
     <Value>Meta 描述</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Meta描述。Hint">
-    <Value>Meta 描述 被添加到 vendor页眉.</Value>
+    <Value>Meta 描述 被添加到 供运商页眉.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.MetaKeywords">
     <Value>Meta关键字</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.MetaKeywords.Hint">
-    <Value>Meta关键字 被添加到 vendor页眉.</Value>
+    <Value>Meta关键字 被添加到 供运商页眉.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.MetaTitle">
     <Value>Meta 标题</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.MetaTitle.Hint">
-    <Value>Override the page title. The 默认is the名称 of the vendor.</Value>
+    <Value>覆盖页面标题。 默认是供应商的名称.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Name">
     <Value>姓名</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Name.Hint">
-    <Value>名称 of the vendor.</Value>
+    <Value>供运商名称.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Name.Required">
     <Value>请提供一个名字.</Value>
@@ -13482,31 +13484,34 @@
     <Value>页面大小</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.PageSize.Hint">
-    <Value>设置 页面大小 for products in this vendor e.g. '4' products per page.</Value>
+    <Value>该厂商的产品设置页面大小 '4'每页产品.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.PageSize.Positive">
-    <Value>页面大小 should have a positive value.</Value>
+    <Value>页面大小 应该有一个积分。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.PageSizeOptions">
-    <Value>页面大小 options (comma separated)</Value>
+    <Value>页面大小 选项（逗号分隔）</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.PageSizeOptions.Hint">
-    <Value>Comma separated列表 of 页面大小 options (e.g. 10, 5, 15, 20). First option is the 默认页面大小 if none are selected.</Value>
+    <Value>逗号分隔的页面大小选项列表（例如，10,5,15,20）。
+    第一个选项是默认页面大小，如果没有选择。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.PageSizeOptions.ShouldHaveUniqueItems">
-    <Value>页面大小 options should have unique items.</Value>
+    <Value>页面大小 选项应该有独特的项目.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Picture">
     <Value>图片</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Picture.Hint">
-    <Value> vendor picture.</Value>
+    <Value> 供应商图片.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.SeName">
-    <Value>Search engine friendly page名称</Value>
+    <Value>搜索引擎友好的页面名称</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.SeName.Hint">
-    <Value>Set a search engine friendly page名称 e.g. 'the-best-vendor' to make your page URL 'http://www.yourStore.com/the-best-vendor'. Leave empty to generate it automatically based on the名称 of the vendor.</Value>
+    <Value>设定搜寻引擎友好网页名称例如 “最好的供应商”，
+    使您的网页网址“http://www.yourStore.com/the-best-vendor”。
+    根据供应商的名称，自动生成空白。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Info">
     <Value>供运商信息</Value>
@@ -13515,136 +13520,138 @@
     <Value>供运商名称</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.List.SearchName.Hint">
-    <Value>A vendor名称</Value>
+    <Value>供应商名称</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Updated">
-    <Value> vendor修改成功</Value>
+    <Value> 供应商修改成功</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.VendorNotes">
-    <Value>供运商 notes</Value>
+    <Value>供运商说明</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.VendorNotes.AddButton">
-    <Value>Add vendor note</Value>
+    <Value>添加供应商说明</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.VendorNotes.AddTitle">
-    <Value>Add vendor note</Value>
+    <Value>添加供应商说明</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.VendorNotes.Fields.CreatedOn">
     <Value>创建于</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.VendorNotes.Fields.Note">
-    <Value>Note</Value>
+    <Value>说明</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.VendorNotes.Fields.Note.Hint">
-    <Value>输入this vendor note message.</Value>
+    <Value>输入此供应商注意消息。</Value>
   </LocaleResource>
   <LocaleResource Name="BackInStockSubscriptions.AlreadySubscribed">
-    <Value>You're already subscribed for this product back in stock notification</Value>
+    <Value>您已经订阅了此产品的库存通知</Value>
   </LocaleResource>
   <LocaleResource Name="BackInStockSubscriptions.MaxSubscriptions">
-    <Value>You cannot subscribe. Maximum number of allowed subscriptions is {0}</Value>
+    <Value>你不能订阅。 允许订阅的最大数量是{0}</Value>
   </LocaleResource>
   <LocaleResource Name="BackInStockSubscriptions.NotAllowed">
-    <Value>Subscriptions are not allowed for this product</Value>
+    <Value>此产品不允许订阅</Value>
   </LocaleResource>
   <LocaleResource Name="BackInStockSubscriptions.NotifyMe">
-    <Value>Notify me</Value>
+    <Value>提醒我</Value>
   </LocaleResource>
   <LocaleResource Name="BackInStockSubscriptions.NotifyMeWhenAvailable">
-    <Value>Notify me when available</Value>
+    <Value>可用时通知我</Value>
   </LocaleResource>
   <LocaleResource Name="BackInStockSubscriptions.OnlyRegistered">
-    <Value>Only 注册用户 can use this feature</Value>
+    <Value>只有注册用户才能使用此功能</Value>
   </LocaleResource>
   <LocaleResource Name="BackInStockSubscriptions.PopupTitle">
-    <Value>Receive an email when this arrives in stock</Value>
+    <Value>当到货时收到电子邮件</Value>
   </LocaleResource>
   <LocaleResource Name="BackInStockSubscriptions.Tooltip">
-    <Value>You'll receive a onetime e-mail when this product is available for ordering again. We will not send you any other e-mails or add you to our newsletter; you will仅 be e-mailed about this product!</Value>
+    <Value>本产品可以再次订购时，您将收到一次性电子邮件。 
+    我们不会向您发送任何其他电子邮件或将您添加到我们的通讯;
+    您将仅通过电子邮件发送有关该产品！</Value>
   </LocaleResource>
   <LocaleResource Name="BackInStockSubscriptions.Unsubscribe">
-    <Value>Unsubscribe</Value>
+    <Value>取消</Value>
   </LocaleResource>
   <LocaleResource Name="Bestsellers">
-    <Value>Bestsellers</Value>
+    <Value>畅销</Value>
   </LocaleResource>
   <LocaleResource Name="Blog">
-    <Value>Blog</Value>
+    <Value>博客</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Archive">
-    <Value>Blog archive</Value>
+    <Value>博客归档</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments">
-    <Value>Comments</Value>
+    <Value>评论</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments.CommentText">
     <Value>评论</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments.CommentText.Required">
-    <Value>输入comment</Value>
+    <Value>输入评论</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments.CreatedOn">
     <Value>创建于</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments.LeaveYourComment">
-    <Value>Leave your公用</Value>
+    <Value>留下你的公用</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments.OnlyRegisteredUsersLeaveComments">
-    <Value>Only registered users can leave评论.</Value>
+    <Value>只有注册用户可以留下评论。</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments.SeeAfterApproving">
-    <Value>Blog comment is successfully added. You will see it after approving by a store administrator.</Value>
+    <Value>博客评论已成功添加。 您将在商店管理员批准后才能看到它.</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments.SubmitButton">
-    <Value>New公用</Value>
+    <Value>新公用</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments.SuccessfullyAdded">
-    <Value>Blog comment is successfully added.</Value>
+    <Value>博客评论已成功添加.</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.CommentsLink">
-    <Value>Comments ({0:d})</Value>
+    <Value>评论 ({0:d})</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.FilteredByMonth">
-    <Value>Blog posts of '{0}' '{1}'</Value>
+    <Value>博客文章 '{0}' '{1}'</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.MoreInfo">
-    <Value>details</Value>
+    <Value>详情</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.RSS">
     <Value>RSS</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.RSS.Hint">
-    <Value>Click here to be信息rmed automatically when we add new items to our site.</Value>
+    <Value>当我们添加新的项目到我们的网站时，点击这里自动信息。</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.TagCloud">
-    <Value>Popular blog tags</Value>
+    <Value>热门博客标签</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.TaggedWith">
-    <Value>Blog posts tagged with '{0}'</Value>
+    <Value>博客文章标签'{0}'</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Tags">
     <Value>标签</Value>
   </LocaleResource>
   <LocaleResource Name="Catalog.OrderBy">
-    <Value>Sort by</Value>
+    <Value>按排序</Value>
   </LocaleResource>
   <LocaleResource Name="Catalog.PageSize">
-    <Value>Display</Value>
+    <Value>显示</Value>
   </LocaleResource>
   <LocaleResource Name="Catalog.PageSize.PerPage">
-    <Value>per page</Value>
+    <Value>每页</Value>
   </LocaleResource>
   <LocaleResource Name="Catalog.ViewMode">
-    <Value>View as</Value>
+    <Value>查看为</Value>
   </LocaleResource>
   <LocaleResource Name="Catalog.ViewMode.Grid">
-    <Value>Grid</Value>
+    <Value>网格</Value>
   </LocaleResource>
   <LocaleResource Name="Catalog.ViewMode.List">
-    <Value>List</Value>
+    <Value>列表</Value>
   </LocaleResource>
   <LocaleResource Name="Categories">
-    <Value>Categories</Value>
+    <Value>分类</Value>
   </LocaleResource>
   <LocaleResource Name="Categories.Breadcrumb.Top">
     <Value>Home</Value>
@@ -13653,124 +13660,124 @@
     <Value>({0})</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout">
-    <Value>Checkout</Value>
+    <Value>结帐</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.BillingAddress">
-    <Value>Billing 地址</Value>
+    <Value>账单 地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.BillToThisAddress">
-    <Value>Bill to this 地址</Value>
+    <Value>此账单地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Button">
-    <Value>Checkout</Value>
+    <Value>结帐</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ConfirmButton">
-    <Value>Confirm</Value>
+    <Value>确认</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ConfirmOrder">
-    <Value>Confirm order</Value>
+    <Value>确认订单</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ConfirmYourOrder">
-    <Value>Confirm your order</Value>
+    <Value>确认您的订单</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.EnterBillingAddress">
-    <Value>输入billing 地址</Value>
+    <Value>输入账单 地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.EnterShippingAddress">
-    <Value>输入shipping 地址</Value>
+    <Value>输入送货地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.MinOrderPlacementInterval">
-    <Value>Please wait several seconds before placing a new order (already placed another order several seconds ago).</Value>
+    <Value>请等待几秒钟，然后再发出一个新订单（几秒钟前已经发出另一个订单）.</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.MinOrderSubtotalAmount">
-    <Value>Minimum order sub-total amount is {0}</Value>
+    <Value>最小订单小计是{0}</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.MinOrderTotalAmount">
-    <Value>Minimum order total amount is {0}</Value>
+    <Value>最小订单总额是 {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.NewAddress">
     <Value>新地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.NextButton">
-    <Value>Next</Value>
+    <Value>下一步</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.NoPaymentMethods">
-    <Value>No 支付方式s available</Value>
+    <Value>没有支付方式可用</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.OrderNumber">
-    <Value>订单 number</Value>
+    <Value>订单 号</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.OrderSummary">
-    <Value>订单 summary</Value>
+    <Value>订单小结</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.OrEnterNewAddress">
-    <Value>Or enter 新地址</Value>
+    <Value>输入新地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PaymentError">
-    <Value>Payment error: {0}</Value>
+    <Value>付款错误: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PaymentInfo">
-    <Value>Payment信息rmation</Value>
+    <Value>付款信息</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PaymentMethod">
     <Value>支付方式</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PickupPoints">
-    <Value>Pickup</Value>
+    <Value>取件</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PickupPoints.Description">
-    <Value>Pick up your items at the store</Value>
+    <Value>在商店拿起你的物品</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PickupPoints.Name">
-    <Value>Pickup at {0}</Value>
+    <Value> {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PickupPoints.NotAvailable">
-    <Value>Pickup points could not be loaded</Value>
+    <Value>取货点无法加载</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PickupPoints.SelectPickupPoint">
-    <Value>Select pickup point</Value>
+    <Value>选择取件点</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PlacedOrderDetails">
-    <Value>Click here for order details.</Value>
+    <Value>点击这里查看订单详情.</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Progress.Address">
     <Value>地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Progress.Cart">
-    <Value>Cart</Value>
+    <Value>车</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Progress.Complete">
-    <Value>Complete</Value>
+    <Value>完成</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Progress.Confirm">
-    <Value>Confirm</Value>
+    <Value>确认</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Progress.Payment">
-    <Value>Payment</Value>
+    <Value>付款</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Progress.Shipping">
     <Value>运输</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectBillingAddress">
-    <Value>Select billing 地址</Value>
+    <Value>选择账单地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectBillingAddressOrEnterNewOne">
-    <Value>Select a billing address from your address book or 输入新地址.</Value>
+    <Value>从您的地址簿或输入新地址中选择一个帐单地址.</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectPaymentMethod">
-    <Value>Select 支付方式</Value>
+    <Value>选择支付方式</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectPaymentMethod.MethodAndFee">
     <Value>{0} ({1})</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectShippingAddress">
-    <Value>Select shipping 地址</Value>
+    <Value>选择送货地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectShippingAddressOrEnterNewOne">
-    <Value>Select a shipping address from your address book or 输入新地址.</Value>
+    <Value>从您的地址簿或输入新地址中选择送货地址.</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectShippingMethod">
-    <Value>Select 送货方式</Value>
+    <Value>选择 送货方式</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectShippingMethod.MethodAndFee">
     <Value>{0} ({1})</Value>
@@ -13779,49 +13786,49 @@
     <Value>运输 地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ShippingIsNotAllowed">
-    <Value>运输 is not allowed</Value>
+    <Value>运输 不允许</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ShippingMethod">
     <Value>运输方式</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ShippingMethod.ShippingFromMultipleLocations">
-    <Value>Please note that your order will be shipped from multiple locations</Value>
+    <Value>请注意，您的订单将从多个地点发货</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ShippingOptionCouldNotBeLoaded">
-    <Value>运输 options could not be loaded</Value>
+    <Value>运输 选项无法加载</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ShipToSameAddress">
-    <Value>Ship to the same 地址</Value>
+    <Value>运送到相同的 地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ShipToThisAddress">
-    <Value>Ship to this 地址</Value>
+    <Value>运送到此 地址</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SubmittingOrder">
-    <Value>Submitting order信息rmation...</Value>
+    <Value>提交订单信息...</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.TermsOfService">
-    <Value>Terms of service</Value>
+    <Value>服务条款</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.TermsOfService.IAccept">
-    <Value>I agree with the terms of service and I adhere to them unconditionally</Value>
+    <Value>我同意服务条款，我无条件地遵守这些条款</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.TermsOfService.PleaseAccept">
-    <Value>Please accept the terms of service before the next step.</Value>
+    <Value>请在下一步之前接受服务条款.</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.TermsOfService.Read">
-    <Value>(read)</Value>
+    <Value>(阅读)</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ThankYou">
-    <Value>Thank you</Value>
+    <Value>谢谢</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ThankYou.Continue">
-    <Value>Continue</Value>
+    <Value>继续</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.UseRewardPoints">
-    <Value>Use my reward points, {0} reward points ({1}) available</Value>
+    <Value>使用我的奖励积分，{0}奖励积分（{1}）可用</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.YourOrderHasBeenSuccessfullyProcessed">
-    <Value>Your order has been successfully processed!</Value>
+    <Value>您的订单已成功处理！</Value>
   </LocaleResource>
   <LocaleResource Name="Common.AddNew">
     <Value>Add new</Value>
@@ -13845,10 +13852,10 @@
     <Value>Config</Value>
   </LocaleResource>
   <LocaleResource Name="Common.Confirm">
-    <Value>Confirm</Value>
+    <Value>确认</Value>
   </LocaleResource>
   <LocaleResource Name="Common.Continue">
-    <Value>Continue</Value>
+    <Value>继续</Value>
   </LocaleResource>
   <LocaleResource Name="Common.Day">
     <Value>Day</Value>
@@ -14370,7 +14377,7 @@
     <Value>Cancelled</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Complete">
-    <Value>Complete</Value>
+    <Value>完成</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Pending">
     <Value>Pending</Value>
@@ -14469,7 +14476,7 @@
     <Value>运输 not 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Tax.TaxBasedOn.BillingAddress">
-    <Value>Billing 地址</Value>
+    <Value>账单 地址</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Tax.TaxBasedOn.DefaultAddress">
     <Value>默认地址</Value>
@@ -14829,7 +14836,7 @@
     <Value>Search term 最小长度 is {0} characters</Value>
   </LocaleResource>
   <LocaleResource Name="Forum.SelectTheForumToMoveTopic">
-    <Value>Select the forum you want to move the post to</Value>
+    <Value>选择 the forum you want to move the post to</Value>
   </LocaleResource>
   <LocaleResource Name="Forum.Status">
     <Value>Status</Value>
@@ -15030,7 +15037,7 @@
     <Value>名称 archive</Value>
   </LocaleResource>
   <LocaleResource Name="News.Comments">
-    <Value>Comments</Value>
+    <Value>评论</Value>
   </LocaleResource>
   <LocaleResource Name="News.Comments.CommentText">
     <Value>评论</Value>
@@ -15051,7 +15058,7 @@
     <Value>创建于</Value>
   </LocaleResource>
   <LocaleResource Name="News.Comments.LeaveYourComment">
-    <Value>Leave your公用</Value>
+    <Value>留下你的公用</Value>
   </LocaleResource>
   <LocaleResource Name="News.Comments.OnlyRegisteredUsersLeaveComments">
     <Value>Only registered users can leave评论.</Value>
@@ -15066,13 +15073,13 @@
     <Value>名称 comment is successfully added.</Value>
   </LocaleResource>
   <LocaleResource Name="News.MoreInfo">
-    <Value>details</Value>
+    <Value>详情</Value>
   </LocaleResource>
   <LocaleResource Name="News.RSS">
     <Value>RSS</Value>
   </LocaleResource>
   <LocaleResource Name="News.RSS.Hint">
-    <Value>Click here to be信息rmed automatically when we add new items to our site.</Value>
+    <Value>当我们添加新的项目到我们的网站时，点击这里自动信息。</Value>
   </LocaleResource>
   <LocaleResource Name="News.ViewAll">
     <Value>View News Archive</Value>
@@ -15090,7 +15097,7 @@
     <Value>Subscribe</Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter.Options.Unsubscribe">
-    <Value>Unsubscribe</Value>
+    <Value>取消</Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter.ResultActivated">
     <Value>Your subscription has been activated.</Value>
@@ -15105,7 +15112,7 @@
     <Value>Sign up for our newsletter</Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter.SubscribeEmailSent">
-    <Value>Thank you for signing up! A verification email has been sent. We appreciate your interest.</Value>
+    <Value>谢谢 for signing up! A verification email has been sent. We appreciate your interest.</Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter.UnsubscribeEmailSent">
     <Value>A verification email has been sent. Thank you!</Value>
@@ -15114,7 +15121,7 @@
     <Value>Newsletter</Value>
   </LocaleResource>
   <LocaleResource Name="Order.BillingAddress">
-    <Value>Billing 地址</Value>
+    <Value>账单 地址</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Email">
     <Value>邮箱</Value>
@@ -15156,7 +15163,7 @@
     <Value>订单总数</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Payment">
-    <Value>Payment</Value>
+    <Value>付款</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Payment.Method">
     <Value>支付方式</Value>
@@ -15339,7 +15346,7 @@
     <Value>Last Page</Value>
   </LocaleResource>
   <LocaleResource Name="Pager.Next">
-    <Value>Next</Value>
+    <Value>下一步</Value>
   </LocaleResource>
   <LocaleResource Name="Pager.NextPageTitle">
     <Value>Next Page</Value>
@@ -15366,10 +15373,10 @@
     <Value>Back in stock subscriptions</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.Blog">
-    <Value>Blog</Value>
+    <Value>博客</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.Checkout">
-    <Value>Checkout</Value>
+    <Value>结帐</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.CompareProducts">
     <Value>Compare Products</Value>
@@ -15456,7 +15463,7 @@
     <Value>供运商信息</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.Vendors">
-    <Value>Vendors</Value>
+    <Value>供应商</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.Vendors.Apply">
     <Value>Apply for vendor账户</Value>
@@ -15507,7 +15514,7 @@
     <Value>Expire year 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Payment.SelectCreditCard">
-    <Value>Select credit card</Value>
+    <Value>选择 credit card</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.Address">
     <Value>地址: {0}</Value>
@@ -15516,7 +15523,7 @@
     <Value>地址 2: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.BillingInformation">
-    <Value>Billing信息rmation:</Value>
+    <Value>账单信息rmation:</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.Company">
     <Value>单位: {0}</Value>
@@ -15990,7 +15997,7 @@
     <Value>邮寄日期</Value>
   </LocaleResource>
   <LocaleResource Name="Products.Details">
-    <Value>Details</Value>
+    <Value>详情</Value>
   </LocaleResource>
   <LocaleResource Name="Products.Discontinued">
     <Value>Sorry - this product is no longer available</Value>
@@ -16020,7 +16027,7 @@
     <Value>Personal message</Value>
   </LocaleResource>
   <LocaleResource Name="Products.EmailAFriend.PersonalMessage.Hint">
-    <Value>输入personal message (optional).</Value>
+    <Value>输入personal message （可选的）.</Value>
   </LocaleResource>
   <LocaleResource Name="Products.EmailAFriend.SuccessfullySent">
     <Value>Your message has been sent.</Value>
@@ -16092,7 +16099,7 @@
     <Value>RSS</Value>
   </LocaleResource>
   <LocaleResource Name="Products.NewProducts.RSS.Hint">
-    <Value>Click here to be信息rmed automatically when we add new items to our site.</Value>
+    <Value>当我们添加新的项目到我们的网站时，点击这里自动信息。</Value>
   </LocaleResource>
   <LocaleResource Name="Products.NoAssociatedProducts">
     <Value>This product is sold out</Value>
@@ -16251,7 +16258,7 @@
     <Value>总 Posts</Value>
   </LocaleResource>
   <LocaleResource Name="ReturnRequests.Comments">
-    <Value>Comments</Value>
+    <Value>评论</Value>
   </LocaleResource>
   <LocaleResource Name="ReturnRequests.NoItemsSubmitted">
     <Value>Your return request has not been submitted because you haven't chosen any items.</Value>
@@ -16794,7 +16801,7 @@
     <Value>Sitemap</Value>
   </LocaleResource>
   <LocaleResource Name="Sitemap.Categories">
-    <Value>Categories</Value>
+    <Value>分类</Value>
   </LocaleResource>
   <LocaleResource Name="Sitemap.Description">
     <Value>View the sitemap for this website below, with links to each of the pages and brief descriptions of what to find in each section</Value>
@@ -16818,7 +16825,7 @@
     <Value>Please check back in a little while.</Value>
   </LocaleResource>
   <LocaleResource Name="StoreTheme">
-    <Value>Select store theme</Value>
+    <Value>选择 store theme</Value>
   </LocaleResource>
   <LocaleResource Name="Tax.Exclusive">
     <Value>Show prices tax exclusive</Value>
@@ -16839,7 +16846,7 @@
     <Value>Wrong password</Value>
   </LocaleResource>
   <LocaleResource Name="Vendors">
-    <Value>Vendors</Value>
+    <Value>供应商</Value>
   </LocaleResource>
   <LocaleResource Name="Vendors.ApplyAccount">
     <Value>Apply for vendor账户</Value>
@@ -16926,7 +16933,7 @@
     <Value>Personal message</Value>
   </LocaleResource>
   <LocaleResource Name="Wishlist.EmailAFriend.PersonalMessage.Hint">
-    <Value>输入personal message (optional).</Value>
+    <Value>输入personal message （可选的）.</Value>
   </LocaleResource>
   <LocaleResource Name="Wishlist.EmailAFriend.SuccessfullySent">
     <Value>Your message has been sent.</Value>
