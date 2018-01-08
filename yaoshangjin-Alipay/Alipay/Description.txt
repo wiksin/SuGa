@@ -1,9 +1,0 @@
-﻿Group: Payment methods
-FriendlyName: 支付宝
-SystemName: DaBoLang.Payments.AliPay
-Version: 1.00
-SupportedVersions: 3.90
-Author: 大波浪
-DisplayOrder: 1
-FileName: DaBoLang.Nop.Plugin.Payments.AliPay.dll
-Description: 支付宝 即时到账 插件,支持支付,退款 
