@@ -1,0 +1,9 @@
+﻿作者：大波浪
+博客园:http://www.cnblogs.com/yaoshangjin
+要上进:http://yaoshangjin.com
+支持版本：3.9
+
+
+插件安装位置  ..\..\Presentation\Nop.Web\Plugins\{插件名称}\ 
+
+
