@@ -2449,7 +2449,8 @@
     <Value>只批准</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchApproved.DisapprovedOnly">
-    <Value拒绝
+    <Value>
+      拒绝
     </Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchStore">
@@ -4127,7 +4128,7 @@
     <Value>类型已经成功更新.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries">
-    <Value>继续</Value>
+    <Value>国家</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.Added">
     <Value>新的国家已经成功添加了.</Value>
