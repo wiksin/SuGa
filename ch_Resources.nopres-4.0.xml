@@ -1564,7 +1564,7 @@
     <Value>该属性已成功删除.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Description">
-    <Value>结账属性显示在购物车页面上，并提供在下订单之前向顾客提供更多服务的机会，即礼品包装.</Value>
+    <Value>结账属性显示在购物车页面上，并提供在下订单之前向客户提供更多服务的机会，即礼品包装.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.EditAttributeDetails">
     <Value>编辑结帐属性详细信息</Value>
@@ -2371,7 +2371,7 @@
     <Value>审查创建的日期/时间.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Customer">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Customer.Hint">
     <Value>创建评论的客户.</Value>
@@ -2697,7 +2697,7 @@
     <Value>产品创建的日期和时间.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.CustomerEntersPrice">
-    <Value>顾客输入价格</Value>
+    <Value>客户输入价格</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.CustomerEntersPrice.Hint">
     <Value>指示客户是否应该输入价格的选项。</Value>
@@ -4023,7 +4023,7 @@
     <Value>保存</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.SaveContinue">
-    <Value>保存并</Value>
+    <Value>保存并继续</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.Search">
     <Value>查询</Value>
@@ -4107,13 +4107,13 @@
     <Value>迄今为止的搜索创建.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.Customer">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.CustomerEmail">
-    <Value>顾客 Email</Value>
+    <Value>客户Email</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLog.Fields.CustomerEmail.Hint">
-    <Value>顾客Email.</Value>
+    <Value>客户Email.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.ActivityLog.ActivityLogType">
     <Value>活动类型</Value>
@@ -5790,7 +5790,7 @@
     <Value>客户最低年龄</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.DateOfBirthMinimumAge.Hint">
-    <Value>输入允许的最低年龄。 如果所有年龄的顾客都被允许，请留空.</Value>
+    <Value>输入允许的最低年龄。 如果所有年龄的客户都被允许，请留空.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.DateOfBirthRequired">
     <Value>'出生日期'必填</Value>
@@ -6171,7 +6171,7 @@
     <Value>签名启用</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Forums.SignaturesEnabled.Hint">
-    <Value>为顾客增加一个指定签名的机会。 签名将显示在每个论坛帖子下方。</Value>
+    <Value>为客户增加一个指定签名的机会。 签名将显示在每个论坛帖子下方。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Forums.TopicsPageSize">
     <Value>主题页面大小</Value>
@@ -7259,7 +7259,7 @@
     <Value>交叉销售产品</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.CustomerEntersPrice">
-    <Value>顾客输入价格</Value>
+    <Value>客户输入价格</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DeliveryDate">
     <Value>邮寄日期</Value>
@@ -7675,8 +7675,8 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.DisplayCartAfterAddingProduct.Hint">
     <Value>
-      如果选中，则在将产品添加到购物车后，将立即将顾客带到购物车页面。
-      如果未选中，顾客将停留在产品添加到购物车的同一页面上.
+      如果选中，则在将产品添加到购物车后，将立即将客户带到购物车页面。
+      如果未选中，客户将停留在产品添加到购物车的同一页面上.
     </Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.DisplayWishlistAfterAddingProduct">
@@ -7684,8 +7684,8 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.DisplayWishlistAfterAddingProduct.Hint">
     <Value>
-      如果选中，则在将产品添加到愿望清单后，将立即将顾客带到愿望清单页面。
-      如果未选中，顾客将停留在产品添加到购物车的同一页面上.
+      如果选中，则在将产品添加到愿望清单后，将立即将客户带到愿望清单页面。
+      如果未选中，客户将停留在产品添加到购物车的同一页面上.
     </Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.EmailWishlistEnabled">
@@ -8574,7 +8574,7 @@
     <Value>创建于</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.Customer">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.IsApproved">
     <Value>被批准</Value>
@@ -8792,7 +8792,7 @@
     </Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.MessageTemplates.描述。NewsLetterSubscription.ActivationMessage">
-    <Value>This 消息模板 is used when a顾客 subscribes to the newsletter to confirm the subscription.</Value>
+    <Value>This 消息模板 is used when a客户 subscribes to the newsletter to confirm the subscription.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.MessageTemplates.描述。NewsLetterSubscription.DeactivationMessage">
     <Value>
@@ -9049,7 +9049,7 @@
     <Value>创建于</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.Comments.Fields.Customer">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.Comments.Fields.IsApproved">
     <Value>被批准</Value>
@@ -9142,7 +9142,7 @@
     <Value>语言</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Language.Hint">
-    <Value>语言这个新闻条目。 顾客将不会看到他们所选语言的新闻条目.</Value>
+    <Value>语言这个新闻条目。 客户将不会看到他们所选语言的新闻条目.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.LimitedToStores">
     <Value>限于商店</Value>
@@ -9343,7 +9343,7 @@
     <Value>检查以允许客户在商店关闭时查看该主题的详细信息页面。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Topics.Fields.AclCustomerRoles">
-    <Value>顾客角色</Value>
+    <Value>客户角色</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Topics.Fields.AclCustomerRoles.Hint">
     <Value>选择要显示主题的客户角色。 如果您希望此主题对所有用户都可见，请将其留空。</Value>
@@ -9518,7 +9518,7 @@
     <Value>当前购物车</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.CurrentCarts.Customer">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.CurrentCarts.Product">
     <Value>产品</Value>
@@ -9545,7 +9545,7 @@
     <Value>目前的愿望清单</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.CustomerAttributes">
     <Value>自定义客户属性</Value>
@@ -9566,7 +9566,7 @@
     <Value>如果默认表单字段不足以满足您的需求，则可以在下面管理其他客户属性.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.CustomerAttributes.EditAttributeDetails">
-    <Value>编辑顾客属性详情</Value>
+    <Value>编辑客户属性详情</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.CustomerAttributes.Fields.AttributeControlType">
     <Value>控制类型</Value>
@@ -9635,7 +9635,7 @@
     <Value>您需要先保存客户属性，然后才能为此客户属性页面添加值.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.CustomerRoles">
-    <Value>顾客角色</Value>
+    <Value>客户角色</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.CustomerRoles.Added">
     <Value>新客户角色添加成功.</Value>
@@ -9734,7 +9734,7 @@
     <Value> 客户角色修改成功</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.ActivityLog">
     <Value>活动日志</Value>
@@ -9776,7 +9776,7 @@
     <Value>添加新地址</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Addresses.BackToCustomer">
-    <Value>返回顾客详情</Value>
+    <Value>返回客户详情</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Addresses.EditAddress">
     <Value>编辑地址</Value>
@@ -9824,7 +9824,7 @@
     <Value>订阅</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.BackToList">
-    <Value>返回顾客列表</Value>
+    <Value>返回客户列表</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.CannotBeInVendoRoleWithoutVendorAssociated">
     <Value>供应商角色中的客户应该有关联的供应商账户。</Value>
@@ -9842,16 +9842,16 @@
     <Value>当前心愿单</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Deleted">
-    <Value>顾客删除成功</Value>
+    <Value>客户删除成功</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.EditCustomerDetails">
-    <Value>编辑顾客详情</Value>
+    <Value>编辑客户详情</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Active">
     <Value>激活</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Active.Hint">
-    <Value>这个顾客的账户是激活的吗？ 要禁用/暂停顾客的账户，请取消选中此项.</Value>
+    <Value>这个客户的账户是激活的吗？ 要禁用/暂停客户的账户，请取消选中此项.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.AdminComment">
     <Value>管理员公用</Value>
@@ -9863,7 +9863,7 @@
     <Value>加盟</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Affiliate.Hint">
-    <Value>顾客所关联的会员.</Value>
+    <Value>客户所关联的会员.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Affiliate.Remove">
     <Value>移除加盟</Value>
@@ -9899,28 +9899,28 @@
     <Value>创建于</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.CreatedOn.Hint">
-    <Value> 顾客记录创建日期。</Value>
+    <Value> 客户记录创建日期。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.CustomerRoles">
-    <Value>顾客角色</Value>
+    <Value>客户角色</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.CustomerRoles.Hint">
-    <Value>选择顾客角色这个用户。</Value>
+    <Value>选择客户角色这个用户。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.CustomerRoles.NoRoles">
-    <Value>没有顾客角色可用。 在映射之前创建至少一个客户角色。</Value>
+    <Value>没有客户角色可用。 在映射之前创建至少一个客户角色。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.DateOfBirth">
     <Value>出生日期</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.DateOfBirth.Hint">
-    <Value>顾客出生日期.</Value>
+    <Value>客户出生日期.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Email">
     <Value>邮箱</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Email.Hint">
-    <Value>顾客邮箱.</Value>
+    <Value>客户邮箱.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Email.Required">
     <Value>请提供电子邮件。</Value>
@@ -9938,7 +9938,7 @@
     <Value>姓</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.FirstName.Hint">
-    <Value>顾客姓</Value>
+    <Value>客户姓</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.FirstName.Required">
     <Value>请提供姓</Value>
@@ -9953,7 +9953,7 @@
     <Value>女</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Gender.Hint">
-    <Value>顾客性别.</Value>
+    <Value>客户性别.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Gender.Male">
     <Value>男</Value>
@@ -9968,7 +9968,7 @@
     <Value>是免税</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.IsTaxExempt.Hint">
-    <Value>确定顾客是否免税。</Value>
+    <Value>确定客户是否免税。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.LastActivityDate">
     <Value>上次活动</Value>
@@ -9980,7 +9980,7 @@
     <Value>名</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.LastName.Hint">
-    <Value>顾客名字</Value>
+    <Value>客户名字</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.LastName.Required">
     <Value>请提供名字</Value>
@@ -10004,7 +10004,7 @@
     <Value>修改密码</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Password.Hint">
-    <Value>顾客密码</Value>
+    <Value>客户密码</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Phone">
     <Value>电话</Value>
@@ -10019,7 +10019,7 @@
     <Value>在商店注册</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.RegisteredInStore.Hint">
-    <Value>指示顾客在哪个商店注册</Value>
+    <Value>指示客户在哪个商店注册</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.StateProvince">
     <Value>州/省</Value>
@@ -10061,7 +10061,7 @@
     <Value>用户名</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Username.Hint">
-    <Value>顾客用户名.</Value>
+    <Value>客户用户名.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Username.Required">
     <Value>请提供用户名。</Value>
@@ -10085,7 +10085,7 @@
     <Value>Manager of vendor</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Vendor.Hint">
-    <Value>选择与此顾客账户关联的供应商。 关联此顾客时，将能够登录到所选供应商门户并管理他的产品和订单.</Value>
+    <Value>选择与此客户账户关联的供应商。 关联此客户时，将能够登录到所选供应商门户并管理他的产品和订单.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Vendor.None">
     <Value>没有供应商</Value>
@@ -10100,7 +10100,7 @@
     <Value>邮编/邮政编码 必填</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.GuestsAndRegisteredRolesError">
-    <Value>顾客不能在“客人”和“注册”顾客角色中</Value>
+    <Value>客户不能在“客人”和“注册”客户角色中</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Impersonate">
     <Value>下单（模仿）</Value>
@@ -10110,9 +10110,9 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Impersonate.Description1">
     <Value>
-      在下订单的过程中，您几乎可以看到顾客在浏览本网站时会看到什么，
-      除了标题菜单（您将看到以下文字“模仿顾客@ email.here - 完成会话”）。
-      导航到顾客想要的产品，并按照顾客的要求将其添加到购物车，
+      在下订单的过程中，您几乎可以看到客户在浏览本网站时会看到什么，
+      除了标题菜单（您将看到以下文字“模仿客户@ email.here - 完成会话”）。
+      导航到客户想要的产品，并按照客户的要求将其添加到购物车，
       然后使用“结帐”按钮继续通常的结帐流程。
     </Value>
   </LocaleResource>
@@ -10120,10 +10120,10 @@
     <Value>注意：点击“完成会议”链接为了完成这个会议</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Info">
-    <Value>顾客信息</Value>
+    <Value>客户信息</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.List.CustomerRoles">
-    <Value>顾客角色</Value>
+    <Value>客户角色</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.List.CustomerRoles.Hint">
     <Value>过滤客户角色.</Value>
@@ -10327,22 +10327,22 @@
     <Value>一些评论在这里...</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Updated">
-    <Value>顾客修改成功</Value>
+    <Value>客户修改成功</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.ValidEmailRequiredRegisteredRole">
-    <Value>有效的电子邮件必填为顾客在“注册”的角色</Value>
+    <Value>有效的电子邮件必填为客户在“注册”的角色</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.VendorShouldBeInVendorsRole">
-    <Value>注意：如果您有与此顾客关联的供应商，那么也请确保它位于“供应商”客户角色.</Value>
+    <Value>注意：如果您有与此客户关联的供应商，那么也请确保它位于“供应商”客户角色.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Guest">
     <Value>访客</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.OnlineCustomers">
-    <Value>在线顾客</Value>
+    <Value>在线客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.OnlineCustomers.Fields.CustomerInfo">
-    <Value>顾客信息</Value>
+    <Value>客户信息</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.OnlineCustomers.Fields.IPAddress">
     <Value>IP地址</Value>
@@ -10363,13 +10363,13 @@
     <Value>位置</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Reports">
-    <Value>顾客报表</Value>
+    <Value>客户报表</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Reports.BestBy.BestByNumberOfOrders">
-    <Value>顾客按订单数量</Value>
+    <Value>客户按订单数量</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Reports.BestBy.BestByOrderTotal">
-    <Value>顾客按订单总额</Value>
+    <Value>客户按订单总额</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Reports.BestBy.EndDate">
     <Value>结束日期</Value>
@@ -10378,7 +10378,7 @@
     <Value>结束日期为搜索。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Reports.BestBy.Fields.Customer">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Reports.BestBy.Fields.OrderCount">
     <Value>订单数量</Value>
@@ -10411,7 +10411,7 @@
     <Value>搜索的开始日期。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Reports.RegisteredCustomers">
-    <Value>注册顾客</Value>
+    <Value>注册客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Reports.RegisteredCustomers.Fields.Customers">
     <Value>计数</Value>
@@ -10813,10 +10813,10 @@
     <Value>订单的创建日期/时间.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.Customer">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.Customer.Hint">
-    <Value>顾客谁下了这个订单。</Value>
+    <Value>客户谁下了这个订单。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.CustomerEmail">
     <Value>邮箱</Value>
@@ -10825,10 +10825,10 @@
     <Value>邮箱.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.CustomerIP">
-    <Value>顾客 IP地址</Value>
+    <Value>客户 IP地址</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.CustomerIP.Hint">
-    <Value>顾客 IP地址从哪里下订单.</Value>
+    <Value>客户 IP地址从哪里下订单.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.CustomOrderNumber">
     <Value>订单#</Value>
@@ -11090,7 +11090,7 @@
     <Value>运输方式</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.ShippingMethod.Hint">
-    <Value>顾客的选择送货方式为这个命令。 您可以从配置：运输：送货方式来管理送货方式。</Value>
+    <Value>客户的选择送货方式为这个命令。 您可以从配置：运输：送货方式来管理送货方式。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.ShippingStatus">
     <Value>运输状态</Value>
@@ -11147,13 +11147,13 @@
     <Value>帐单电子邮件地址</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.List.BillingEmail.Hint">
-    <Value>按顾客帐单电子邮件地址过滤</Value>
+    <Value>按客户帐单电子邮件地址过滤</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.List.BillingLastName">
     <Value>帐单最后名称</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.List.BillingLastName.Hint">
-    <Value>按顾客帐单过滤最后名称</Value>
+    <Value>按客户帐单过滤最后名称</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.List.EndDate">
     <Value>结束日期</Value>
@@ -11243,10 +11243,10 @@
     <Value>创建于</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.OrderNotes.Fields.DisplayToCustomer">
-    <Value>显示给顾客</Value>
+    <Value>显示给客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.OrderNotes.Fields.DisplayToCustomer.Hint">
-    <Value>指示是否将此订单显示给顾客的值。</Value>
+    <Value>指示是否将此订单显示给客户的值。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.OrderNotes.Fields.Download">
     <Value>附件</Value>
@@ -11804,7 +11804,7 @@
     <Value>广告修改成功</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Campaigns.Warning">
-    <Value>确保您在将广告系列发送给多个顾客之前已经对广告系列进行了测试。 先点击“保存”按钮保存您的广告系列.</Value>
+    <Value>确保您在将广告系列发送给多个客户之前已经对广告系列进行了测试。 先点击“保存”按钮保存您的广告系列.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Discounts">
     <Value>折扣</Value>
@@ -11965,7 +11965,7 @@
     <Value>需要优惠券代码</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Discounts.Fields.RequiresCouponCode.Hint">
-    <Value>如果选中，顾客必须提供一个有效的优惠券代码来申请折扣.</Value>
+    <Value>如果选中，客户必须提供一个有效的优惠券代码来申请折扣.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Discounts.Fields.StartDate">
     <Value>开始时间</Value>
@@ -12055,7 +12055,7 @@
     <Value>组名称</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Discounts.Requirements.GroupName.Hint">
-    <Value>指定需求组的名称（例如“允许的顾客角色”）。</Value>
+    <Value>指定需求组的名称（例如“允许的客户角色”）。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Discounts.Requirements.InteractionTypeInGroup">
     <Value>本组中的交互类型是</Value>
@@ -12112,7 +12112,7 @@
     <Value>{0}电子邮件已成功导入</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.CustomerRoles">
-    <Value>顾客角色</Value>
+    <Value>客户角色</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.NewsLetterSubscriptions.List.CustomerRoles.Hint">
     <Value>按特定客户角色搜索。</Value>
@@ -12175,10 +12175,10 @@
     <Value>编辑定期付款详情</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.RecurringPayments.Fields.Customer">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.RecurringPayments.Fields.Customer.Hint">
-    <Value>顾客.</Value>
+    <Value>客户.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.RecurringPayments.Fields.CycleLength">
     <Value></Value>
@@ -12283,7 +12283,7 @@
     <Value>退货请求删除成功</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Description">
-    <Value>退货请求功能（RMA）使顾客能够发送产品返回您。 在这里你可以找到所有提交的退货请求。</Value>
+    <Value>退货请求功能（RMA）使客户能够发送产品返回您。 在这里你可以找到所有提交的退货请求。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.EditReturnRequestDetails">
     <Value>编辑返回请求详情</Value>
@@ -12295,16 +12295,16 @@
     <Value>日期当提交退货请求时。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Fields.Customer">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Fields.Customer.Hint">
-    <Value>顾客信息息.</Value>
+    <Value>客户信息息.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Fields.CustomerComments">
-    <Value>顾客评论</Value>
+    <Value>客户评论</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Fields.CustomerComments.Hint">
-    <Value>输入顾客评论.</Value>
+    <Value>输入客户评论.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Fields.CustomNumber">
     <Value>ID</Value>
@@ -12367,13 +12367,13 @@
     <Value>下载</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Fields.UploadedFile.Hint">
-    <Value>顾客上传的文件</Value>
+    <Value>客户上传的文件</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Notified">
-    <Value>顾客已成功通知。</Value>
+    <Value>客户已成功通知。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.NotifyCustomer">
-    <Value>通知顾客关于状态改变</Value>
+    <Value>通知客户关于状态改变</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.OrderItemDeleted">
     <Value>订单项目被删除</Value>
@@ -12712,10 +12712,10 @@
     <Value>日期/时间日志条目已创建.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Log.Fields.Customer">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Log.Fields.Customer.Hint">
-    <Value>发生异常的顾客的姓名。</Value>
+    <Value>发生异常的客户的姓名。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Log.Fields.FullMessage">
     <Value>完整的信息</Value>
@@ -12859,7 +12859,7 @@
     <Value>只有没有购物车</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Maintenance.DeleteGuests.OnlyWithoutShoppingCart.Hint">
-    <Value>一个值，表示我们是否需要找到顾客没有购物车/愿望清单。 如果不加以控制，那么所有顾客都会被找到。</Value>
+    <Value>一个值，表示我们是否需要找到客户没有购物车/愿望清单。 如果不加以控制，那么所有客户都会被找到。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Maintenance.DeleteGuests.StartDate">
     <Value>开始时间</Value>
@@ -12868,7 +12868,7 @@
     <Value>搜索的开始日期。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Maintenance.DeleteGuests.TotalDeleted">
-    <Value>{0}顾客被删除了</Value>
+    <Value>{0}客户被删除了</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.QueuedEmails">
     <Value>消息队列</Value>
@@ -13417,21 +13417,21 @@
     <Value>管理员公用供内部使用。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AllowCustomersToSelectPageSize">
-    <Value>允许顾客选择页面大小</Value>
+    <Value>允许客户选择页面大小</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AllowCustomersToSelectPageSize.Hint">
-    <Value>是否允许顾客从预定义的选项列表中选择页面大小。</Value>
+    <Value>是否允许客户从预定义的选项列表中选择页面大小。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails">
-    <Value>顾客</Value>
+    <Value>客户</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails.Hint">
-    <Value>可以用来管理产品和订单的顾客账户列表（可以访问供应商门户）。 
-    您可以将顾客与顾客详细信息页面上的供应商相关联。
-    如果您不希望供应商访问供应商门户，则不要将任何顾客账户与其关联.</Value>
+    <Value>可以用来管理产品和订单的客户账户列表（可以访问供应商门户）。 
+    您可以将客户与客户详细信息页面上的供应商相关联。
+    如果您不希望供应商访问供应商门户，则不要将任何客户账户与其关联.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails.None">
-    <Value>没有顾客账户与此供应商关联.</Value>
+    <Value>没有客户账户与此供应商关联.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Description">
     <Value>描述</Value>
@@ -14132,7 +14132,7 @@
     <Value>允许数量在下面0</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.BackorderMode.AllowQtyBelow0AndNotifyCustomer">
-    <Value>允许数量低于0并通知顾客</Value>
+    <Value>允许数量低于0并通知客户</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.BackorderMode.NoBackorders">
     <Value>没有缺货</Value>
@@ -14291,7 +14291,7 @@
     <Value>N次</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountLimitationType.NTimesPerCustomer">
-    <Value>每位顾客N次</Value>
+    <Value>每位客户N次</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.DiscountLimitationType.Unlimited">
     <Value>无限</Value>
@@ -14435,7 +14435,7 @@
     <Value>散列</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Security.UserRegistrationType.AdminApproval">
-    <Value>顾客应该被管理员批准</Value>
+    <Value>客户应该被管理员批准</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Security.UserRegistrationType.Disabled">
     <Value>注册被禁用</Value>
@@ -14580,7 +14580,7 @@
     <Value>or </Value>
   </LocaleResource>
   <LocaleResource Name="Footer.CustomerService">
-    <Value>顾客 服务</Value>
+    <Value>客户 服务</Value>
   </LocaleResource>
   <LocaleResource Name="Footer.FollowUs">
     <Value>跟随</Value>
@@ -15678,7 +15678,7 @@
     <Value>插件。 访问Web服务</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.AllowCustomerImpersonation">
-    <Value>管理员区。 允许顾客模拟</Value>
+    <Value>管理员区。 允许客户模拟</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.DisplayPrices">
     <Value>公共商店。 显示价格</Value>
@@ -15723,7 +15723,7 @@
     <Value>管理员区。 管理当前购物车</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.ManageCustomers">
-    <Value>管理员区。管理顾客小号</Value>
+    <Value>管理员区。管理客户小号</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.ManageDiscounts">
     <Value>管理员区。 管理折扣</Value>
@@ -15939,7 +15939,7 @@
     <Value>- 数量{0}</Value>
   </LocaleResource>
   <LocaleResource Name="Products.AlsoPurchased">
-    <Value>顾客谁买了这个项目也买了</Value>
+    <Value>客户谁买了这个项目也买了</Value>
   </LocaleResource>
   <LocaleResource Name="Products.Availability">
     <Value>可用性</Value>
@@ -16413,7 +16413,7 @@
     <Value>赢得促销的订单 #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="RewardPoints.Message.EarnedForRegistration">
-    <Value>注册为顾客</Value>
+    <Value>注册为客户</Value>
   </LocaleResource>
   <LocaleResource Name="RewardPoints.Message.RedeemedForOrder">
     <Value>兑换订单#{0}</Value>
