@@ -4059,7 +4059,7 @@
     <Value>Zip文件</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration">
-    <Value>组态</Value>
+    <Value>系统配置</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.ACL">
     <Value>访问控制列表</Value>
@@ -15192,7 +15192,7 @@
     <Value>打印</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Product(s)">
-    <Value>产品(s)</Value>
+    <Value>产品</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Product(s).Name">
     <Value>姓名</Value>
@@ -16362,7 +16362,7 @@
     <Value>成为第一个评论该产品</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Overview.Reviews">
-    <Value>评论(s)</Value>
+    <Value>评论</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.ProductReviewPossibleOnlyAfterPurchasing">
     <Value>产品购买后才可以查看</Value>
@@ -16383,7 +16383,7 @@
     <Value>产品评论已成功添加。</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.TotalReviews">
-    <Value>{0} 评论(s)</Value>
+    <Value>{0} 评论</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Write">
     <Value>写你自己的评论</Value>
@@ -16639,7 +16639,7 @@
     <Value>愿望清单中允许的最大数量的不同产品是 {0}.</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Mini.Items">
-    <Value>{0} 条目(s)</Value>
+    <Value>{0} 条目</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Mini.ItemsText">
     <Value>您的购物车中有{0}.</Value>
@@ -16669,7 +16669,7 @@
     <Value>预购</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Product(s)">
-    <Value>产品(s)</Value>
+    <Value>产品</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.ProductDeleted">
     <Value>产品被删除</Value>
