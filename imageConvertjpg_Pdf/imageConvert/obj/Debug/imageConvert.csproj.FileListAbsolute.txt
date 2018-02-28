@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\bin\Debug\imageConvert.exe.config
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\bin\Debug\imageConvert.exe
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\bin\Debug\imageConvert.pdb
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\obj\Debug\imageConvert.Form1.resources
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\obj\Debug\imageConvert.Properties.Resources.resources
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\obj\Debug\imageConvert.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\obj\Debug\imageConvert.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\obj\Debug\imageConvert.exe
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\obj\Debug\imageConvert.pdb
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\imageFind\imageConvert\imageConvert\bin\Debug\itextsharp.xml
