@@ -1,0 +1,39 @@
+﻿[
+  {
+    "Type": "Plugin",
+    "SupportedVersion": "3.50",
+    "DirectoryPath": "CashOnDelivery/nopCommerce 3.50/Payments.CashOnDelivery/",
+    "SystemName": "Payments.CashOnDelivery",
+    "SourceDirectoryPath": "CashOnDelivery/nopCommerce 3.50/Nop.Plugin.Payments.CashOnDelivery/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.60",
+    "DirectoryPath": "CashOnDelivery/nopCommerce 3.60/Payments.CashOnDelivery/",
+    "SystemName": "Payments.CashOnDelivery",
+    "SourceDirectoryPath": "CashOnDelivery/nopCommerce 3.70/Nop.Plugin.Payments.CashOnDelivery/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.70",
+    "DirectoryPath": "CashOnDelivery/nopCommerce 3.70/Payments.CashOnDelivery/",
+    "SystemName": "Payments.CashOnDelivery",
+    "SourceDirectoryPath": "CashOnDelivery/nopCommerce 3.70/Nop.Plugin.Payments.CashOnDelivery/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.80",
+    "DirectoryPath": "CashOnDelivery/nopCommerce 3.80/Payments.CashOnDelivery/",
+    "SystemName": "Payments.CashOnDelivery",
+    "SourceDirectoryPath": "CashOnDelivery/nopCommerce 3.80/Nop.Plugin.Payments.CashOnDelivery/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.90",
+    "DirectoryPath": "CashOnDelivery/nopCommerce 3.90/Payments.CashOnDelivery/",
+    "SystemName": "Payments.CashOnDelivery",
+    "SourceDirectoryPath": "CashOnDelivery/nopCommerce 3.90/Nop.Plugin.Payments.CashOnDelivery/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "4.00",
+    "DirectoryPath": "CashOnDelivery/nopCommerce 4.00/Payments.CashOnDelivery/",
+    "SystemName": "Payments.CashOnDelivery",
+    "SourceDirectoryPath": "CashOnDelivery/nopCommerce 4.00/Nop.Plugin.Payments.CashOnDelivery/"
+  }
+]

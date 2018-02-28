@@ -1,0 +1,12 @@
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentCashOnDelivery\Configure.cshtml
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentCashOnDelivery\PaymentInfo.cshtml
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\web.config
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo.jpg
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo2.jpg
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll.config
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.csprojResolveAssemblyReference.cache
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb

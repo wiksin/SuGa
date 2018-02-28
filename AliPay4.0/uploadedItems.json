@@ -1,0 +1,87 @@
+﻿[
+  {
+    "Type": "Plugin",
+    "SupportedVersion": "2.65",
+    "DirectoryPath": "AliPay/nopCommerce 2.65/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 2.65/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "2.70",
+    "DirectoryPath": "AliPay/nopCommerce 2.70/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 2.70/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "2.80",
+    "DirectoryPath": "AliPay/nopCommerce 2.80/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 2.80/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.00",
+    "DirectoryPath": "AliPay/nopCommerce 3.00/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 3.00/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.10",
+    "DirectoryPath": "AliPay/nopCommerce 3.10/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 3.10/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.20",
+    "DirectoryPath": "AliPay/nopCommerce 3.20/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 3.20/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.30",
+    "DirectoryPath": "AliPay/nopCommerce 3.30/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 3.30/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.40",
+    "DirectoryPath": "AliPay/nopCommerce 3.40/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 3.40/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.50",
+    "DirectoryPath": "AliPay/nopCommerce 3.50/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 3.50/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.60",
+    "DirectoryPath": "AliPay/nopCommerce 3.60/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 3.70/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.70",
+    "DirectoryPath": "AliPay/nopCommerce 3.70/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 3.70/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.80",
+    "DirectoryPath": "AliPay/nopCommerce 3.80/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 3.80/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "3.90",
+    "DirectoryPath": "AliPay/nopCommerce 3.90/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 3.90/Nop.Plugin.Payments.AliPay/"
+  }, {
+    "Type": "Plugin",
+    "SupportedVersion": "4.00",
+    "DirectoryPath": "AliPay/nopCommerce 4.00/Payments.AliPay/",
+    "SystemName": "Payments.AliPay",
+    "SourceDirectoryPath": "AliPay/nopCommerce 4.00/Nop.Plugin.Payments.AliPay/"
+  }
+]

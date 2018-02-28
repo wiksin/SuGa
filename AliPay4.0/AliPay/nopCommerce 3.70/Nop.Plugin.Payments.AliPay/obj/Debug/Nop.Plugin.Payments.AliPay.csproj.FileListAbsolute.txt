@@ -1,0 +1,11 @@
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.AliPay\Views\PaymentAliPay\Configure.cshtml
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.AliPay\Views\PaymentAliPay\PaymentInfo.cshtml
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.AliPay\web.config
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.AliPay\Description.txt
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.AliPay\logo.jpg
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.AliPay\Nop.Plugin.Payments.AliPay.dll.config
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.AliPay\Nop.Plugin.Payments.AliPay.dll
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Payments.AliPay\Nop.Plugin.Payments.AliPay.pdb
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.AliPay\obj\Debug\Nop.Plugin.Payments.AliPay.csprojResolveAssemblyReference.cache
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.AliPay\obj\Debug\Nop.Plugin.Payments.AliPay.dll
+C:\!work\Обновление плагинов\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Payments.AliPay\obj\Debug\Nop.Plugin.Payments.AliPay.pdb

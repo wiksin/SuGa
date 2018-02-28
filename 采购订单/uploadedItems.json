@@ -1,0 +1,9 @@
+﻿[
+  {
+    "Type": "Plugin",
+    "SupportedVersion": "4.00",
+    "DirectoryPath": "PurchaseOrder/nopCommerce 4.00/Payments.PurchaseOrder/",
+    "SystemName": "Payments.PurchaseOrder",
+    "SourceDirectoryPath": "PurchaseOrder/nopCommerce 4.00/Nop.Plugin.Payments.PurchaseOrder/"
+  }
+]
