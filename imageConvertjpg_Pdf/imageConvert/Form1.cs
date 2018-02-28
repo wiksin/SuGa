@@ -49,10 +49,15 @@ namespace imageConvert
         //开始转换
         private void btnStart_Click(object sender, EventArgs e)
         {
-            btnStart.Enabled = false;
+
             Thread thred = new Thread(Start);
             thred.Start();
-            // btnStart.Enabled = true;
+            btnStart.Enabled = false;
+            MessageBox.Show("开始处理，请勿关闭窗口\r\n详情请看" + txtToPath.Text+ "日志，\r\n请耐心等待程序处理.....");
+
+           
+
+
         }
         public void Start()
         {
@@ -60,7 +65,7 @@ namespace imageConvert
             DirectoryInfo folder = new DirectoryInfo(selectPath);
             int count = folder.GetDirectories().Count();
             int current = 1;
-            string mess = DateTime.Now.ToString() + ":" + "本初一共处理数据，" + count + "条\r\n";
+            string mess = DateTime.Now.ToString() + ":" + "本批次一共处理数据，"+folder.FullName+"下文件" + count + "个文件夹\r\n\r\n";
             TextWrite(txtToPath.Text, DateTime.Now.ToString("yyyy-MM-dd"), mess);
             foreach (var dirInfo in folder.GetDirectories())
             {
@@ -73,11 +78,11 @@ namespace imageConvert
                     GC.Collect();
 
                 }
+                TextWrite(txtToPath.Text, DateTime.Now.ToString("yyyy-MM-dd"), DateTime.Now.ToString() + ":当前正在处理"+dirInfo.FullName+"第" + current + "/" + count + "文件，文件名称为，" + txtToPath.Text + "\\" + dirInfo.Name + ".pdf\r\n");
                 current++;
-                TextWrite(txtToPath.Text, DateTime.Now.ToString("yyyy-MM-dd"), mess + "当前正在处理第" + current + "条，文件名称为，" + dirInfo.Name + "\r\n");
-
 
             }
+            TextWrite(txtToPath.Text, DateTime.Now.ToString("yyyy-MM-dd"), DateTime.Now.ToString() + ":\r\n--------------已完成处理-------\r\n");
         }
 
 
@@ -227,38 +232,38 @@ namespace imageConvert
                 Directory.CreateDirectory(str);
             }
 
-                //判断文件的存在
-                if (File.Exists(str + "\\" + logName + ".log"))
-                {
-                    Console.WriteLine("该文件已经存在");
-                }
-                else
-                {
-                    //如果文件不存在，则创建该文件
-                    File.Create(str + "\\" + logName + ".log");
-                }
-
-                //写入字符串数组，并且换行
-                List<string> lstStr = new List<string>();
-                lstStr.Add(strins);
-                //如果该文件存在，并向其中追加写入数据
-                if (File.Exists(str + "\\" + logName + ".log"))
-                {
-                    File.AppendAllLines(str + "\\" + logName + ".log", lstStr, Encoding.UTF8);
-              
-                }
-                else
-                //如果该文件不存在，则创建该文件，写入数据
-                {
-                    //如果该文件存在，这个方法会覆盖该文件中的内容
-                    File.AppendAllLines(str + "\\" + logName + ".log", lstStr, Encoding.UTF8);
-                }
-                ////如果文件不存在，则创建；存在则覆盖
-
-                //System.IO.File.AppendAllLines(str + "\\" + logName + ".log", lstStr, Encoding.UTF8);
-                lstStr.Clear();
+            //判断文件的存在
+            if (File.Exists(str + "\\" + logName + ".log"))
+            {
+                Console.WriteLine("该文件已经存在");
             }
-        
+            else
+            {
+                //如果文件不存在，则创建该文件
+                File.Create(str + "\\" + logName + ".log");
+            }
+
+            //写入字符串数组，并且换行
+            List<string> lstStr = new List<string>();
+            lstStr.Add(strins);
+            //如果该文件存在，并向其中追加写入数据
+            if (File.Exists(str + "\\" + logName + ".log"))
+            {
+                File.AppendAllLines(str + "\\" + logName + ".log", lstStr, Encoding.UTF8);
+
+            }
+            else
+            //如果该文件不存在，则创建该文件，写入数据
+            {
+                //如果该文件存在，这个方法会覆盖该文件中的内容
+                File.AppendAllLines(str + "\\" + logName + ".log", lstStr, Encoding.UTF8);
+            }
+            ////如果文件不存在，则创建；存在则覆盖
+
+            //System.IO.File.AppendAllLines(str + "\\" + logName + ".log", lstStr, Encoding.UTF8);
+            lstStr.Clear();
+        }
+
 
     }
 
