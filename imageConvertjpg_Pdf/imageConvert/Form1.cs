@@ -46,6 +46,7 @@ namespace imageConvert
 
 
         }
+        string ipAddress = "";
         //开始转换
         private void btnStart_Click(object sender, EventArgs e)
         {
@@ -54,8 +55,9 @@ namespace imageConvert
             thred.Start();
             btnStart.Enabled = false;
             MessageBox.Show("开始处理，请勿关闭窗口\r\n详情请看" + txtToPath.Text+ "日志，\r\n请耐心等待程序处理.....");
+            System.Net.IPHostEntry myEntry = System.Net.Dns.GetHostEntry(System.Net.Dns.GetHostName());
+             ipAddress = "计算机名:"+myEntry.HostName+",IP地址:"+ myEntry.AddressList[2].ToString();
 
-           
 
 
         }
@@ -65,7 +67,7 @@ namespace imageConvert
             DirectoryInfo folder = new DirectoryInfo(selectPath);
             int count = folder.GetDirectories().Count();
             int current = 1;
-            string mess = DateTime.Now.ToString() + ":" + "本批次一共处理数据，"+folder.FullName+"下文件" + count + "个文件夹\r\n\r\n";
+            string mess = DateTime.Now.ToString() + ":" + ipAddress + "/本批次一共处理数据，"+folder.FullName+"下文件" + count + "个文件夹\r\n\r\n";
             TextWrite(txtToPath.Text, DateTime.Now.ToString("yyyy-MM-dd"), mess);
             foreach (var dirInfo in folder.GetDirectories())
             {
@@ -78,7 +80,7 @@ namespace imageConvert
                     GC.Collect();
 
                 }
-                TextWrite(txtToPath.Text, DateTime.Now.ToString("yyyy-MM-dd"), DateTime.Now.ToString() + ":当前正在处理"+dirInfo.FullName+"第" + current + "/" + count + "文件，文件名称为，" + txtToPath.Text + "\\" + dirInfo.Name + ".pdf\r\n");
+                TextWrite(txtToPath.Text, DateTime.Now.ToString("yyyy-MM-dd"), DateTime.Now.ToString() + ":"+ ipAddress + "当前正在处理"+dirInfo.FullName+"第" + current + "/" + count + "文件，文件名称为，" + txtToPath.Text + "\\" + dirInfo.Name + ".pdf\r\n");
                 current++;
 
             }
